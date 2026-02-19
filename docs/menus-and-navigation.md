@@ -1,54 +1,44 @@
 ﻿# Menus and Navigation
 
-This map reflects production navigation and repo routing.
+![Navigation](https://img.shields.io/badge/Navigation-7%20Primary%20Tabs-blue) ![UX](https://img.shields.io/badge/UX-Keyboard%20Shortcuts-0ea5e9)
 
-## Header Menu
+## Header Utilities
 
-- About
-- Settings
-- Apps Menu
-- Theme Toggle
-- Keyboard Shortcuts (desktop)
+- About dialog
+- Settings dialog
+- Apps menu (grid icon)
+- Theme toggle
+- Keyboard shortcuts dialog (desktop-visible control)
 
-## Apps Menu (Grid Icon)
+## Apps Menu
 
-- AI DevConsole (`https://ai.devconsole.org/`)
-- WebBuilder DevConsole (`https://builder.devconsole.org/`)
+- **AI DevConsole:** https://ai.devconsole.org/
+- **WebBuilder DevConsole:** https://builder.devconsole.org/
 
-## Main Navigation Tabs
+## Main Tabs
 
-1. Home
-2. Dev Tools
-3. Coder AI
-4. API Testing
-5. DB Query Builder
-6. One-Time Secrets
-7. Blogs
+1. Home (?tab=home)
+2. Dev Tools (?tab=dev-tools)
+3. Coder AI (?tab=coder-ai)
+4. API Testing (?tab=api-testing)
+5. DB Query Builder (?tab=code-data)
+6. One-Time Secrets (?tab=one-time-secrets)
+7. Blogs (?tab=blogs)
 
 ## Dev Tools Subtabs
 
-1. Utilities
-2. Text Compare
-3. Docs
+1. Utilities (?tab=dev-tools&subtab=utilities)
+2. Text Compare (?tab=dev-tools&subtab=compare)
+3. Docs (?tab=dev-tools&subtab=documentation)
 
-## URL Routing Pattern
+## Quick Deep Links (Priority)
 
-DevConsole supports query-parameter routing for deep links:
+- **Coder AI:** https://www.devconsole.org?tab=coder-ai
+- **API Tester:** https://www.devconsole.org?tab=api-testing
+- **One-Time Secrets:** https://www.devconsole.org?tab=one-time-secrets
 
-- `?tab=home`
-- `?tab=dev-tools&subtab=utilities`
-- `?tab=dev-tools&subtab=utilities&tool=json`
-- `?tab=api-testing`
-- `?tab=code-data`
-- `?tab=one-time-secrets`
-- `?tab=blogs`
+## Security Badges Mentioned on Home
 
-## Keyboard Navigation
-
-Primary shortcuts include ctrl/cmd + number keys for tab switching and `?` for shortcuts dialog.
-
-## Navigation Notes
-
-- Designed as a single app with tabbed modules
-- Most tools work client-side for speed/privacy
-- Direct links enable sharing specific sections/tools
+- SSL Labs A+
+- UpGuard A
+- SecurityHeaders-linked badge (home text currently says "Rated A By snyk")

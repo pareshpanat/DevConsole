@@ -1,28 +1,24 @@
-﻿# DevConsole Documentation
+﻿# DevConsole Docs Hub
 
-Live app: https://www.devconsole.org  
-Last verified: February 19, 2026
+![Status](https://img.shields.io/badge/Status-Live-success) ![Tools](https://img.shields.io/badge/Toolset-53-blue) ![Privacy](https://img.shields.io/badge/Processing-Client--Side%20for%20core%20tools-0ea5e9)
 
-DevConsole is a free, browser-based developer platform with 50+ tools for API testing, data formatting, security workflows, and productivity.
+**Live app:** https://www.devconsole.org  
+**Last verified:** February 19, 2026
 
-## Quick Links
+## Explore
 
 - [Feature Overview](./features.md)
 - [Menus and Navigation](./menus-and-navigation.md)
 - [Promotion Kit](./promotion-kit.md)
 
-## What DevConsole Offers
+## Spotlight Features
 
-- 50+ utilities (repo inventory currently shows 53 tools)
-- API testing with auth, tests, imports, and code generation
-- Database query builders for SQL and NoSQL stacks
-- AI coding assistant (Coder AI)
-- One-time secret sharing
-- Built-in blog publishing and reading experience
+- **Coder AI:** https://www.devconsole.org?tab=coder-ai
+- **API Tester:** https://www.devconsole.org?tab=api-testing
+- **One-Time Secrets:** https://www.devconsole.org?tab=one-time-secrets
 
-## Core Promise
+## Security Badge References (from Home)
 
-- Free to use
-- Privacy-first, client-side processing for most tools
-- No installation required
-- Fast workflow from one web app
+- **SSL Labs A+:** https://www.ssllabs.com/ssltest/analyze.html?d=www.devconsole.org&latest
+- **UpGuard A:** https://www.upguard.com/instant-security-score/report?c=https%3A%2F%2Fwww.devconsole.org%2F
+- **SecurityHeaders link (home label shows "Rated A By snyk"):** https://securityheaders.com/?q=https%3A%2F%2Fwww.devconsole.org
