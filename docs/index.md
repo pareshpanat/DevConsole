@@ -9,7 +9,6 @@
 
 - [Feature Overview](./features.md)
 - [Menus and Navigation](./menus-and-navigation.md)
-- [Promotion Kit](./promotion-kit.md)
 
 ## Spotlight Features
 
@@ -22,3 +21,4 @@
 - **SSL Labs A+:** https://www.ssllabs.com/ssltest/analyze.html?d=www.devconsole.org&latest
 - **UpGuard A:** https://www.upguard.com/instant-security-score/report?c=https%3A%2F%2Fwww.devconsole.org%2F
 - **SecurityHeaders link (home label shows "Rated A By snyk"):** https://securityheaders.com/?q=https%3A%2F%2Fwww.devconsole.org
+
